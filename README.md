@@ -1,0 +1,1 @@
+This is a collection of resources I've found while learning to code.
