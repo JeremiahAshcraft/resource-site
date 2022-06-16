@@ -39,7 +39,11 @@ nav li:hover {
 }
 
 .categories li {
-  color: rgb(28, 30, 31);
+  color: rgb(255, 56, 99);
+}
+
+.categories li:hover {
+  font-weight: bold;
 }
 
 .header {
@@ -65,6 +69,8 @@ ul li {
   list-style-type: none;
   padding-right: 40px;
 }
+
+
 
 a {
   text-decoration: none;
